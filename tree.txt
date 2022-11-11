@@ -1,0 +1,26 @@
+
+
+#Starting Node is Min Node
+root = {
+        "value": "",
+        "childs": [
+                {
+                "value": "",
+                "childs": [
+                    {"value": 5, "childs": []},
+                    {"value": 3, "childs": []},
+                    {"value": 9, "childs": []}
+                    ]
+                },
+                {
+                "value": "",
+                "childs": [
+                     {"value": 2, "childs": []},
+                     {"value": 8, "childs": []},               
+                    ]
+                }
+            ]
+        }
+
+
+
